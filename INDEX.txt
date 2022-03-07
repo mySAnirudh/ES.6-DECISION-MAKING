@@ -1,0 +1,16 @@
+
+
+    Conditional constructs in JavaScript are classified in the following table.
+Statement Description
+if statement An ‘if’ statement consists of a Boolean expression 
+followed by one or more statements
+if...else statement
+An ‘if’ statement can be followed by an optional ‘else’ 
+statement, which executes when the Boolean
+expression is false
+The else.. if ladder / 
+nested if statements
+You can use one ‘if’ or ‘else if’ statement inside 
+another ‘if’ or ‘else if’ statement(s)
+switch statement A ‘switch’ statement allows a variable to be tested for 
+equality against a list of values
